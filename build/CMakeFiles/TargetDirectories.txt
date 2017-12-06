@@ -1,0 +1,8 @@
+/home/pedro/PARI/Aula 12/PARI2017/build/CMakeFiles/rebuild_cache.dir
+/home/pedro/PARI/Aula 12/PARI2017/build/CMakeFiles/edit_cache.dir
+/home/pedro/PARI/Aula 12/PARI2017/build/CMakeFiles/install.dir
+/home/pedro/PARI/Aula 12/PARI2017/build/CMakeFiles/list_install_components.dir
+/home/pedro/PARI/Aula 12/PARI2017/build/CMakeFiles/myf.dir
+/home/pedro/PARI/Aula 12/PARI2017/build/CMakeFiles/cpfiles.dir
+/home/pedro/PARI/Aula 12/PARI2017/build/CMakeFiles/install/strip.dir
+/home/pedro/PARI/Aula 12/PARI2017/build/CMakeFiles/install/local.dir
